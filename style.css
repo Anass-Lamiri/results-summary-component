@@ -59,6 +59,7 @@ img {
 
 body {
     font-family: var(--ff);
+    background-color: var(--clr-White);
 }
 
 
